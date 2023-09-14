@@ -5,9 +5,9 @@ The purpose of this project was to experiment with Authentication and fetching u
 # Developed by: Sukrat Ubha
 # Developed in: 2019-2020
 
-Uploaded for code inspection.
-Tested on Postman; An example is https://localhost:8080/GetLogo
-other endpoints can be seen from inside the controllers
+Endpoint definitions:
+Tested on Postman; Eg. https://localhost:8080/GetLogo
+-> check controller file for endpoint definitions
 
 Visual studio play button or 'dotnet run' to start the server
 
